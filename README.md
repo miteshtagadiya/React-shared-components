@@ -4,6 +4,11 @@
 - No need to create a UI library for reusable components across apps.
 - Create Shared UI App to create UI components. Deploy Shared UI App and Dynamically load a React Component from that URL using [remote-component](https://github.com/Paciolan/remote-component).
 - You can also add shared styles and common files in Shared App which you want to reuse.
+
+<p align="center">
+  <img src="./Shared/Shared.gif">
+</p>
+
 ***
 ## How Remote Components works
 - The RemoteComponent React Component takes a URL as a prop. The URL is loaded and processed. This file must be a valid CommonJS Module that exports the component as default.
