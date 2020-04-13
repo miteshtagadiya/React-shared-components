@@ -30,7 +30,7 @@
         "babel-preset-react": "^6.24.1",
         "html-webpack-plugin": "^4.0.4",
         "prettier": "^1.13.7",
-        "serve": "^6.5.2",
+        "serve": "^11.3.0",
         "source-map-loader": "^0.2.4",
         "ts-loader": "^6.2.2",
         "typescript": "^3.8.3",
